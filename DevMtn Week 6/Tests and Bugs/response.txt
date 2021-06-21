@@ -1,0 +1,10 @@
+https://trello.com/b/LrC7QMg1/enter-wanted | https://trello.com/b/sBM6de0d/yoodlize | https://trello.com/b/oV1tb9Om/imdb
+
+1. We found our bugs by navigating each website and checked things that you normally do on other websites (signing up for an account, searching for items, viewing items)
+2. For the most part, the test that we ran are more specific since many users are going to be looking for specific things on websites
+3. Specific test steps
+    pros: Being able to figure out what exactly is wrong with a ceratin function on a website
+    cons: Can sometimes be confusing
+4. Broad test steps
+    pros: Gives an overview of the entire function of the website
+    cons: Does not provide deatils about the test that are not working
